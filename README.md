@@ -1,5 +1,5 @@
-# The N Puzzle Problem 
-### and Using Search Algorithms for Problem Solving
+# The N Puzzle Problem...
+### ...and Using Search Algorithms for Generic Problem Solving
 
 Generalized search algorithms for problem solving in Ruby, by Ryder Moody. In all tests, N = 15.
 
